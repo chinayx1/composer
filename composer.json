@@ -1,0 +1,19 @@
+{
+    "name": "xiange/base",
+    "description": "xiange common function.",
+    "keywords": ["xiange", "function"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.9",
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
