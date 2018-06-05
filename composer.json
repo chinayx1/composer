@@ -1,14 +1,17 @@
 {
-    "name": "xiange/base",
-    "description": "xiange common function.",
-    "keywords": ["xiange", "function"],
+    "name": "xiange/string",
+    "description": "xiange string class",
+    "keywords": ["xiange"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
+        
     },
     "config": {
         "preferred-install": "dist"
+    },
+	"autoload": {
+        "files":["src/StringKmp.class.php"]
     },
     "repositories": {
         "packagist": {
