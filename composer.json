@@ -15,6 +15,7 @@
 	"autoload": {
         "files":["src/StringKmp.class.php"]
     },
+	"minimum-stability": "dev",
     "repositories": {
         "packagist": {
             "type": "composer",
