@@ -1,5 +1,6 @@
 <?php
 
+namespace xiange\string;
 //KMP 算法基类
 
 class StringKmp {
